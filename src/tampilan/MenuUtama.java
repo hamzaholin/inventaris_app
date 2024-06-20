@@ -84,16 +84,16 @@ public class MenuUtama extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(153, 255, 0));
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 153, 0));
-        jLabel1.setText("Pemrograman Visual");
+        jLabel1.setText("Dasar Pemrograman WEB");
 
         jLabel3.setBackground(new java.awt.Color(153, 255, 0));
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(204, 204, 204));
-        jLabel3.setText("@2020 by Khariri");
+        jLabel3.setText("@2024 by Kelompok-2");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("APLIKASI PENGOLAHAN DATA BARANG INVENTARIS PERUSAHAAN");
+        jLabel2.setText("APLIKASI PENGOLAHAN DATA BARANG INVENTARIS");
 
         javax.swing.GroupLayout backGround1Layout = new javax.swing.GroupLayout(backGround1);
         backGround1.setLayout(backGround1Layout);
@@ -189,22 +189,22 @@ public class MenuUtama extends javax.swing.JFrame {
 
         jMenuBar1.add(jMenu2);
 
-        jMenu5.setText("Laporan");
+        // jMenu5.setText("Laporan");
 
-        jMenuItem7.setText("Laporan Pemasukan Inventaris");
-        jMenuItem7.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem7ActionPerformed(evt);
-            }
-        });
-        jMenu5.add(jMenuItem7);
+        // jMenuItem7.setText("Laporan Pemasukan Inventaris");
+        // jMenuItem7.addActionListener(new java.awt.event.ActionListener() {
+        //     public void actionPerformed(java.awt.event.ActionEvent evt) {
+        //         jMenuItem7ActionPerformed(evt);
+        //     }
+        // });
+        // jMenu5.add(jMenuItem7);
 
-        jMenuItem8.setText("Laporan Pengeluaran Inventaris");
-        jMenuItem8.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem8ActionPerformed(evt);
-            }
-        });
+        // jMenuItem8.setText("Laporan Pengeluaran Inventaris");
+        // jMenuItem8.addActionListener(new java.awt.event.ActionListener() {
+        //     public void actionPerformed(java.awt.event.ActionEvent evt) {
+        //         jMenuItem8ActionPerformed(evt);
+        //     }
+        // });
         jMenu5.add(jMenuItem8);
 
         jMenuBar1.add(jMenu5);
