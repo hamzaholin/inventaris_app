@@ -202,7 +202,7 @@ public class InventarisMasuk extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(0, 204, 204));
+        jPanel1.setBackground(new java.awt.Color(153, 153, 153));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jLabel1.setText("INVENTARIS MASUK");
@@ -373,7 +373,6 @@ public class InventarisMasuk extends javax.swing.JFrame {
         );
 
         jPanel3.setBackground(new java.awt.Color(255, 204, 153));
-        jPanel3.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 255, 255), 1, true));
 
         tableinvmsk.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
